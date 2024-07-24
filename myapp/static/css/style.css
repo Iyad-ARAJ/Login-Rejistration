@@ -1,0 +1,17 @@
+.container{
+    /* display: flex; */
+    margin-top: 10px;
+    
+    
+}
+
+.col-md-6{
+    /* border: 1px solid black; */
+    display: inline-block;
+
+}
+.message{
+    color: green;
+    font-size: 20px;
+
+}
